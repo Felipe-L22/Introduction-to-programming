@@ -1,0 +1,90 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+248
+'PressureSoft V1.0 ------- This software uses an algorithm that when receiving systolic pressure data indicates whether the patient has hypertension or normal blood pressure ---------- MAKERS: Jhoan Fernando Florez - Cristian Galvis - Felipe Lopez'
+4
+1
+29
+'Type your systolic pressure'
+5
+1
+9
+Systolic1
+4
+1
+30
+'Type your diastolic pressure'
+5
+1
+10
+Diastolic1
+7
+0
+1
+37
+Systolic1 >= 160 OR Diastolic1 >= 100
+7
+1
+1
+16
+Systolic1 <= 120
+4
+1
+33
+'You have good systolic pressure'
+13
+7
+1
+1
+33
+Systolic1 >120 AND Systolic1 <139
+4
+1
+17
+'Prehipertension'
+13
+4
+1
+23
+'You have hypertension'
+13
+13
+7
+1
+1
+16
+Diastolic1 <= 80
+4
+1
+36
+'You have a good diastolic pressure'
+13
+7
+0
+1
+33
+Diastolic1 >90 AND Diastolic1<99 
+4
+1
+26
+'You have prehypertension'
+13
+4
+1
+23
+'You have hypertension'
+13
+13
+13
+4
+1
+38
+'Invalid data - type a correct number'
+13
+1

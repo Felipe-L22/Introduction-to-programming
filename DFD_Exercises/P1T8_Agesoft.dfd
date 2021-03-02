@@ -7,7 +7,7 @@
 4
 1
 146
-"AGESOFT_V1.0____MAKER: Felipe Lopez ____DESCRIPTION: This software use the year of birth to calculate age of a person____Type the age of birth: "
+'AGESOFT_V1.0____MAKER: Felipe Lopez ____DESCRIPTION: This software use the year of birth to calculate age of a person____Type the age of birth: '
 5
 1
 11
@@ -26,11 +26,11 @@ v_age
 4
 1
 47
-"The age of person is: ", v_age , " years old."
+'The age of person is: ', v_age , ' years old.'
 13
 4
 1
 73
-"ERR: This year is not valid  the year of birth should be less than 2021"
+'ERR: This year is not valid  the year of birth should be less than 2021'
 13
 1

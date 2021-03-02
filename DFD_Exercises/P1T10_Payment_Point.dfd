@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+109
+'SOFTPAYPOINT__V1.0__MAKER: Felipe Lopez__This Software are used for a payment point__Type the first product'
+5
+1
+10
+V_Product1
+4
+1
+25
+'Type the second product'
+5
+1
+10
+V_Product2
+4
+1
+24
+'Type the third product'
+5
+1
+10
+V_Product3
+4
+1
+25
+'Type the fourth product'
+5
+1
+10
+V_Product4
+7
+0
+1
+67
+V_Product1 < 0 OR V_Product2< 0 OR V_Product3 < 0 OR V_Product4 < 0
+6
+3
+5
+V_Sum
+43
+V_Product1+V_Product2+V_Product3+V_Product4
+5
+IVA19
+10
+V_Sum*0.19
+5
+TOTAL
+13
+V_Sum + IVA19
+4
+1
+233
+'The first product is: ',  V_Product1, '   The second product is:  ',  V_Product2,'   The third product is:   ',   V_Product3,'    The fourth product is:   ',  V_Product4,'    The iva is :19%','  The total value to pay is:   ', TOTAL
+13
+4
+1
+38
+'ERR: One of this values is incorrect'
+13
+1

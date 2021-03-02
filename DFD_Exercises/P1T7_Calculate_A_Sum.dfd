@@ -7,11 +7,11 @@
 4
 1
 109
-"SOFT-SUM__V1.0__MAKER: Felipe Lopez__This Software calculate a sum by three numbers__Type the first product"
+'SOFT-SUM__V1.0__MAKER: Felipe Lopez__This Software calculate a sum by three numbers__Type the first product'
 4
 1
 22
-"Input  the 1° number"
+'Input  the 1° number'
 5
 1
 7
@@ -19,7 +19,7 @@ Number1
 4
 1
 22
-"Input  the 2° number"
+'Input  the 2° number'
 5
 1
 7
@@ -27,7 +27,7 @@ Number2
 4
 1
 22
-"Input  the 3° number"
+'Input  the 3° number'
 5
 1
 7
@@ -41,5 +41,5 @@ Number1+Number2+Number3
 4
 1
 36
-"El resultado de la suma es:   ",sum
+'El resultado de la suma es:   ',sum
 1
