@@ -1,0 +1,107 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+154
+'Weekday V1.0 ----- Maker: Felipe Lopez -- This software design an algorithm when entering a number the program must print the day of the week in letters'
+5
+1
+5
+V_Day
+7
+0
+1
+22
+V_day < 1 OR V_day > 7
+7
+0
+1
+9
+V_Day = 1
+7
+0
+1
+9
+V_Day = 2
+7
+0
+1
+9
+V_Day = 3
+7
+0
+1
+9
+V_Day = 4
+7
+0
+1
+9
+V_Day = 5
+7
+0
+1
+9
+V_Day = 6
+7
+0
+1
+9
+V_Day = 7
+4
+1
+17
+'Today is Sunday'
+13
+4
+1
+17
+'Today is Sunday'
+13
+13
+4
+1
+19
+'Today is Saturday'
+13
+13
+4
+1
+17
+'Today is Friday'
+13
+13
+4
+1
+19
+'Today is thursday'
+13
+13
+4
+1
+20
+'Today is wednesday'
+13
+13
+4
+1
+18
+'Today is tuesday'
+13
+13
+4
+1
+17
+'Today is Monday'
+13
+13
+4
+1
+30
+'ERROR: This day is not found'
+13
+1

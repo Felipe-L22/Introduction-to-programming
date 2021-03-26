@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+153
+'Age_Of_People V1.0 Maker: Felipe Lopez---- This software with the age of a person determine if he is a child, adolescent, adult, older adult, matusalen'
+5
+1
+5
+V_Age
+7
+0
+1
+8
+V_Age<=0
+7
+0
+1
+9
+V_Age <12
+7
+0
+1
+9
+V_Age <18
+7
+0
+1
+9
+V_Age <45
+7
+0
+1
+8
+V_Age<90
+7
+0
+1
+9
+V_Age>=90
+4
+1
+21
+'You are a matusalen'
+13
+4
+1
+21
+'You are a matusalen'
+13
+13
+4
+1
+23
+'You are a older adult'
+13
+13
+4
+1
+17
+'You are a adlut'
+13
+13
+4
+1
+22
+'You are a adolescent'
+13
+13
+4
+1
+17
+'You are a child'
+13
+13
+4
+1
+20
+'ERR: You dont born'
+13
+1

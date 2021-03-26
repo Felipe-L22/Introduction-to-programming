@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+177
+'Semester grades V1.0 ----- Maker: Felipe Lopez This software perfform an algorithm that when you enter a stundent grades in the semester, the grades have the sollowing weights'
+4
+1
+24
+'Type input your grades'
+5
+1
+35
+V_Grade1,V_Grade2,V_Grade3,V_Grade4
+7
+0
+1
+120
+V_Grade1 < 0 OR V_Grade1 > 5 OR  V_Grade2 <0 OR V_Grade2 > 5 OR V_Grade3 <0 OR V_Grade3 >5 OR V_Grade4 <0 OR V_Grade4 >5
+6
+1
+13
+V_Total_Grade
+67
+(V_Grade1*0.2) + (V_Grade2 *0.25)+ (V_Grade3*0.25) + (V_Grade4*0.3)
+4
+1
+47
+'The final grade to semestre is', V_Total_Grade
+13
+4
+1
+62
+'ERR: Some grade are less than 0 or grater than or equal to 5'
+13
+1
